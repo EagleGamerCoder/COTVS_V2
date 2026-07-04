@@ -199,72 +199,72 @@
                 },
                 "2" : {
                     "title" : "[IFC] Infantry Force Command",
-                    "desc" : "The IFC is the largest command of the CA, it encompases all of the army's primary ground fighting personnel.\n\nRoblox Group: N/A\nDiscord: https://discord.gg/ta87JH8EQ9"
+                    "desc" : "The IFC is the largest command of the CA, it encompases all of the army's primary ground fighting personnel.\n\nRoblox Group: N/A\nDiscord: https://discord.gg/ta87JH8EQ9 \n\nCommander: N/A\nExecutive Commander: N/A\nCommand Sergeant Major: N/A"
                 },
                 "3" : {
                     "title" : "[ATC] Army Training Command",
-                    "desc" : "The ATC is responsible for training new recruits and existing personnel of the army to become the strongest they can.\n\nRoblox Group: N/A\nDiscord: "
+                    "desc" : "The ATC is responsible for training new recruits and existing personnel of the army to become the strongest they can.\n\nRoblox Group: N/A\nDiscord: N/A \n\nCommander: N/A\nExecutive Commander: N/A\nCommand Sergeant Major: N/A"
                 },
                 "4" : {
                     "title" : "[SOC] Special Operations Command",
-                    "desc" : "The SOC holds the most elite units of the CA, able to deploy anywhere, anytime.\n\nRoblox Group: N/A\nDiscord: "
+                    "desc" : "The SOC holds the most elite units of the CA, able to deploy anywhere, anytime.\n\nRoblox Group: N/A\nDiscord: N/A \n\nCommander: N/A\nExecutive Commander: N/A\nCommand Sergeant Major: N/A"
                 },
                 "5" : {
                     "title" : "[MPC] Military Police Command",
-                    "desc" : "The MPC guard, protect and ensure the complicance of rules at all military establishments.\n\nRoblox Group: N/A\nDiscord: "
+                    "desc" : "The MPC guard, protect and ensure the compliance of rules at all military establishments.\n\nRoblox Group: N/A\nDiscord: N/A \n\nCommander: N/A\nExecutive Commander: N/A\nCommand Sergeant Major: N/A"
                 },
                 "6" : {
                     "title" : "[AAC] Army Aviation Command",
-                    "desc" : "The AAC assist ground combat with air to ground weaponry and mobilise troops to ensure precision of attacks.\n\nRoblox Group: N/A\nDiscord: "
+                    "desc" : "The AAC assist ground combat with air to ground weaponry and mobilise troops to ensure precision of attacks.\n\nRoblox Group: N/A\nDiscord: N/A \n\nCommander: N/A\nExecutive Commander: N/A\nCommand Sergeant Major: N/A"
                 },
                 "7" : {
                     "title" : "[MIC] Military Intelligence Command",
-                    "desc" : "The MIC handle and collect military data from survalence and undercover missions to help coordinate units & win battles.\n\nRoblox Group: N/A\nDiscord: "
+                    "desc" : "The MIC handle and collect military data from surveillance and undercover missions to help coordinate units & win battles.\n\nRoblox Group: N/A\nDiscord:N/A \n\nCommander: N/A\nExecutive Commander: N/A\nCommand Sergeant Major: N/A "
                 },
                 "8" : {
                     "title" : "[MSC] Medical Support Command",
-                    "desc" : "The MSC support the ground combat by providing crutial medical attention to troops at need.\n\nRoblox Group: N/A\nDiscord: "
+                    "desc" : "The MSC support the ground combat by providing crutial medical attention to troops at need.\n\nRoblox Group: N/A\nDiscord: N/A\n\nCommander: N/A \nExecutive Commander: N/A\nCommand Sergeant Major: N/A"
                 },
                 "9" : {
                     "title" : "[QMC] Quartermasters Command",
-                    "desc" : "The QMC handles the logistics, awards and uniform creation of the Division that they are assigned to.\n\nRoblox Group: N/A\nDiscord: "
+                    "desc" : "The QMC handles the logistics, awards and uniform creation of the Division that they are assigned to.\n\nRoblox Group: N/A\nDiscord: N/A \n\nCommander: N/A\nExecutive Commander: N/A\nCommand Sergeant Major: N/A"
                 }
             }
         },
         "spa" : {
-            "title" : "",
+            "title" : "Información del comando",
             "embeds" : {
                 "1" : {
-                    "title" : "",
-                    "desc" : ""
+                    "title" : "¿Qué es un comando?",
+                    "desc" : "Un mando del Ejército es una estructura organizativa que clasifica a las unidades de soldados según sus especialidades."
                 },
                 "2" : {
-                    "title" : "",
-                    "desc" : ""
+                    "title" : "[IFC] Mando de la Fuerza de Infantería",
+                    "desc" : "El IFC es el mando más grande del CA y abarca a todo el personal principal de combate terrestre del ejército.\n\nGrupo de Roblox: N/A\nDiscordia: https://discord.gg/ta87JH8EQ9 \n\nComandante: N/A\nComandante ejecutivo: N/A\nSargento Mayor de Comando: N/A"
                 },
                 "3" : {
-                    "title" : "",
-                    "desc" : ""
+                    "title" : "[ATC] Comando de Entrenamiento del Ejército",
+                    "desc" : "El ATC se encarga de capacitar a los nuevos reclutas y al personal actual del ejército para que alcancen su máximo nivel de fortaleza.\n\nGrupo de Roblox: N/A\nDiscordia: N/A \n\nComandante: N/A\nComandante ejecutivo: N/A\nSargento Mayor de Comando: N/A"
                 },
                 "4" : {
-                    "title" : "",
-                    "desc" : ""
+                    "title" : "[SOC] Mando de Operaciones Especiales",
+                    "desc" : "El SOC alberga a las unidades de élite del CA, capaces de desplegarse en cualquier lugar y momento.\n\nGrupo de Roblox: N/A\nDiscordia: N/A \n\nComandante: N/A\nComandante ejecutivo: N/A\nSargento Mayor de Comando: N/A"
                 },
                 "5" : {
-                    "title" : "",
-                    "desc" : ""
+                    "title" : "[MPC] Mando de Policía Militar",
+                    "desc" : "La MPC custodia, protege y garantiza el cumplimiento de las normas en todas las instalaciones militares.\n\nGrupo de Roblox: N/A\nDiscordia: N/A \n\nComandante: N/A\nComandante ejecutivo: N/A\nSargento Mayor de Comando: N/A"
                 },
                 "6" : {
-                    "title" : "",
-                    "desc" : ""
+                    "title" : "[AAC] Comando de Aviación del Ejército",
+                    "desc" : "El AAC presta apoyo al combate terrestre con armamento aire-tierra y moviliza tropas para garantizar la precisión de los ataques.\n\nGrupo de Roblox: N/A\nDiscordia: N/A \n\nComandante: N/A\nComandante ejecutivo: N/A\nSargento Mayor de Comando: N/A"
                 },
                 "7" : {
-                    "title" : "",
-                    "desc" : ""
+                    "title" : "[MIC] Comando de Inteligencia Militar",
+                    "desc" : "El MIC gestiona y recopila datos militares procedentes de misiones de vigilancia y encubiertas para ayudar a coordinar unidades y ganar batallas.\n\nGrupo de Roblox: N/A\nDiscordia: N/A \n\nComandante: N/A\nComandante ejecutivo: N/A\nSargento Mayor de Comando: N/A"
                 },
                 "8" : {
-                    "title" : "",
-                    "desc" : ""
+                    "title" : "[QMC] Comando de Intendencia",
+                    "desc" : "El QMC se encarga de la logística, las condecoraciones y la confección de uniformes de la división a la que está asignado.\n\nGrupo de Roblox: N/A\nDiscordia: N/A \n\nComandante: N/A\nComandante ejecutivo: N/A\nSargento Mayor de Comando: N/A"
                 }
             }
         }
@@ -275,19 +275,19 @@
             "embeds" : {
                 "1" : {
                     "title" : "What is a Corps?",
-                    "desc" : "A Corps is an organisational structure of the CA that groups different types of soldiers into an active deployable force"
+                    "desc" : "A Corps is an organisational structure of the CA that groups different types of soldiers into an active deployable force."
                 },
                 "2" : {
                     "title" : "[IC] I Corps",
-                    "desc" : "The IC is the EU branch of the active Calderian Army forces."
+                    "desc" : "The IC is the EU branch of the active Calderian Army forces.\n\nDiscord: N/A \n\nCommandant: N/A \nExecutive Commandant: N/A\nCommand Sergeant Major: N/A"
                 },
                 "3" : {
                     "title" : "[IIC] II Corps",
-                    "desc" : "The IC is the EST branch of the active Calderian Army forces."
+                    "desc" : "The IC is the EST branch of the active Calderian Army forces.\n\nDiscord: N/A \n\nCommandant: N/A \nExecutive Commandant: N/A\nCommand Sergeant Major: N/A"
                 },
                 "4" : {
                     "title" : "[IIIC] III Corps",
-                    "desc" : "The IC is the AEST branch of the active Calderian Army forces."
+                    "desc" : "The IC is the AEST branch of the active Calderian Army forces.\n\nDiscord: N/A \n\nCommandant: N/A \nExecutive Commandant: N/A\nCommand Sergeant Major: N/A"
                 }
             }
         },
@@ -295,16 +295,20 @@
             "title" : "",
             "embeds" : {
                 "1" : {
-                    "title" : "",
-                    "desc" : ""
+                    "title" : "¿Qué es un cuerpo?",
+                    "desc" : "Un cuerpo de ejército es una estructura organizativa del Ejército que agrupa a diferentes tipos de soldados en una fuerza activa desplegable."
                 },
                 "2" : {
-                    "title" : "",
-                    "desc" : ""
+                    "title" : "[IC] I Cuerpo",
+                    "desc" : "El IC es la rama EU de las fuerzas activas del Ejército Calderiano.\n\nDiscordia: N/A \n\nComandante: N/A\nComandante ejecutivo: N/A\nSargento Mayor de Comando: N/A"
                 },
                 "3" : {
-                    "title" : "",
-                    "desc" : ""
+                    "title" : "[IIC] II Cuerpo",
+                    "desc" : "El IC es la rama EST de las fuerzas activas del Ejército Calderiano.\n\nDiscordia: N/A \n\nComandante: N/A\nComandante ejecutivo: N/A\nSargento Mayor de Comando: N/A"
+                },
+                "4" : {
+                    "title" : "[IIIC] III Cuerpo",
+                    "desc" : "El IC es la rama AEST de las fuerzas activas del Ejército calderiano.\n\nDiscordia: N/A \n\nComandante: N/A\nComandante ejecutivo: N/A\nSargento Mayor de Comando: N/A"
                 }
             }
         }
