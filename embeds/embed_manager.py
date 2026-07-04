@@ -158,16 +158,15 @@ async def create_embed(ctx, channel: discord.TextChannel):
         channel_data = data[channel.name]
 
         embed = discord.Embed(
-            title="Language Selection",
+            title="🌐 Language Selection",
             description=(
-                "Choose your preferred language using the dropdown below.\n\n"
-                "The translated information will only be visible to **you**."
+                "Choose your preferred language using the dropdown below.\n "
             ),
             colour=discord.Color(0xffd739)
         )
 
         embed.set_footer(
-            text="Translations are sent as ephemeral messages."
+            text="The translated information will only be visible to **you**."
         )
 
         await channel.send(
