@@ -38,21 +38,6 @@ async def setup(bot, context):
         await create_embed(context, channel)
 
         await interaction.followup.send("Updated Embed. :D",ephemeral=True)
-    
-    @bot.tree.command(name="update-embed", description="Re-sends the targeted embed.")
-    @app_commands.checks.has_role("[CDEV] Chief Developer")
-    async def update_embed(interaction : discord.Interaction, channel : discord.TextChannel):
-        await interaction.response.defer(ephemeral=True)
-
-        await interaction.followup.send("Updating embed...",ephemeral=True)
-
-        async for i in channel.history(limit=100):
-            if i.author.id == bot.user.id:
-                await i.delete()
-        
-        await create_embed(context, channel)
-
-        await interaction.followup.send("Updated Embed. :D",ephemeral=True)
 
     @bot.tree.command(name="server-stats", description="Provides the stats of the server.")
     @app_commands.checks.has_role("[CDEV] Chief Developer")
