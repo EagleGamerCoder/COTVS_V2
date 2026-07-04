@@ -139,6 +139,7 @@ async def setup(bot, context):
 
         await interaction.followup.send(embed=embed, ephemeral=True)
     
+    '''
     #promote (Lt. Gen+)   ---- also need promotion logs and they cant promote anyone to CSB! for example
     @bot.tree.command(name="bot-diagnostics", description="Provides the stats of the bot.")
     @app_commands.checks.has_role("[CDEV] Chief Developer")
@@ -169,3 +170,4 @@ async def setup(bot, context):
             embed.set_thumbnail(url=guild.icon.url)
 
         await interaction.followup.send(embed=embed, ephemeral=True)
+    '''
