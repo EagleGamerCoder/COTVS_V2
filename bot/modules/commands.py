@@ -104,27 +104,15 @@ async def setup(bot, context):
             colour=discord.Color.gold()
         )
 
-        embed.add_field(
-            name="🤖 General",
-            value=(
-                f"**Latency:** `{round(bot.latency * 1000)} ms`\n"
-                f"**Highest Role:** {me.top_role.mention}\n"
-                f"**Role Position:** {me.top_role.position}\n"
-                f"**Colour:** {me.colour}"
-            ),
-            inline=True
-        )
+        embed.add_field(name="Latency", value=round(bot.latency * 1000), inline=True)
+        embed.add_field(name="Highest Role", value=me.top_role.mention, inline=True)
+        embed.add_field(name="Role Position", value=me.top_role.position, inline=True)
+        embed.add_field(name="Colour", value=me.colour, inline=True)
 
-        embed.add_field(
-            name="🔑 Permissions",
-            value=(
-                f"Manage Roles: {'✅' if permissions.manage_roles else '❌'}\n"
-                f"Manage Nicknames: {'✅' if permissions.manage_nicknames else '❌'}\n"
-                f"Administrator: {'✅' if permissions.administrator else '❌'}\n"
-                f"View Audit Log: {'✅' if permissions.view_audit_log else '❌'}"
-            ),
-            inline=True
-        )
+        embed.add_field(name="Manage Roles", value='✅' if permissions.manage_roles else '❌', inline=True)
+        embed.add_field(name="Manage Nicknames", value='✅' if permissions.manage_nicknames else '❌', inline=True)
+        embed.add_field(name="Administrator", value='✅' if permissions.administrator else '❌', inline=True)
+        embed.add_field(name="View Audit Log", value='✅' if permissions.view_audit_log else '❌', inline=True)
 
         if guild.icon:
             embed.set_thumbnail(url=guild.icon.url)
