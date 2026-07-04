@@ -1,0 +1,348 @@
+{
+    "rules" : {
+        "eng" : {
+            "title" : "📘 Rules",
+            "embeds" : {
+                "1" : {
+                    "desc" : "1. **ALL** Not-Safe-For-Work (NSFW) content or actions are prohibited.\n2. **DO NOT** Spam anything on any channels.\n3. Be kind to **EVERYONE** on this server, we don't want bullying of any sort.\n4. **NO** Abusing any power as you are privileged to have it 🙂.\n5. **DO NOT** Make fake bug reports or post dumb ideas on ideas-and-suggestions.\n6. **NO** Excessive profanity.\n7. **NO** Discriminatory language or profanity.\n8. **ALL** Forms of Online dating are prohibited.\n9. **NO** Pinging Command or High ranking staff.\n10. **NO** Advertisement unless by command staff.\n11. **DO NOT** Attempt to hack or exploit any moderation or other systems.\n12. **DO NOT** Share any personal information with anyone, or ask someone for their Personal Information.\n\n> Ask someone or reach out to our moderation team, if you have any important questions about the rules.\n\n## **If ANY of these rules are broken, appropriate action will be taken depending on the severity and frequency of the offense. This may include a warning, mute, kick, or ban from the server.**"
+                }
+            }
+        },
+        "spa" : {
+            "title" : "📘 Normas",
+            "embeds" : {
+                "1" : {
+                    "desc" : "1. Queda prohibido todo contenido o acción no apta para el entorno laboral (NSFW).\n2. **NO** hagas spam en ningún canal.\n3. Sé amable con **TODOS** en este servidor; no toleramos ningún tipo de acoso.\n4. **NO** abuses del poder que se te ha confiado 🙂.\n5. **NO** envíes informes de errores falsos ni publiques ideas absurdas en el canal de ideas y sugerencias.\n6. **NO** uses lenguaje soez en exceso.\n7. **NO** utilices lenguaje discriminatorio ni insultos.\n8. Queda prohibido cualquier tipo de citas en línea.\n9. **NO** menciones (hagas *ping*) al equipo de mando ni al personal de alto rango.\n10. **NO** hagas publicidad, a menos que lo haga el equipo de mando.\n11. **NO** intentes hackear ni explotar los sistemas de moderación ni ningún otro sistema.\n12. **NO** compartas información personal con nadie, ni solicites información personal a otros.\n\n> Pregunta a alguien o contacta con nuestro equipo de moderación si tienes alguna pregunta importante sobre las normas.\n\n## **Si se incumple alguna de estas normas, se tomarán las medidas oportunas en función de la gravedad y la frecuencia de la infracción. Esto puede incluir una advertencia, silenciar, expulsar o vetar al usuario del servidor.**"
+                }
+            }
+        }
+    },
+    "frequently-asked-questions" : {
+        "eng" : {
+            "title" : "❓ Frequently Asked Quesitons",
+            "embeds" : {
+                "1" : {
+                    "title" : "1. What is the Calderian Army?",
+                    "desc" : "The Calderian Army is a military-style Roleplay game where players can train, earn promotions, and experience realistic army operations through LARP events and Deployments."
+                },
+                "2" : {
+                    "title" : "2. Is the game free to play?",
+                    "desc" : "Yes! The Calderian Army is completely free to join and play on Roblox."
+                },
+                "3" : {
+                    "title" : "3. How do I join the Calderian Army?",
+                    "desc" : "Join the group here: https://www.roblox.com/communities/798272876/CA-Calderian-Army, and attend a Army Standard Training in game, to join a Division."
+                },
+                "4" : {
+                    "title" : "4. How do promotions work?",
+                    "desc" : "Promotions are earned through activity, attending trainings, showing discipline, and following orders."
+                },
+                "5" : {
+                    "title" : "5. How do I become a Dev, Staff, or Mod?",
+                    "desc" : "Apply through an application found in this channel: https://discord.com/channels/1521205109206290464/1521954886147641377."
+                },
+                "6" : {
+                    "title" : "6. What should I do if I find a bug?",
+                    "desc" : "Report all and any bugs to this discord channel: https://discord.com/channels/1521205109206290464/1521944863346790452."
+                },
+                "7" : {
+                    "title" : "7. What happens if someone breaks the rules?",
+                    "desc" : "Report them to this discord channel: https://discord.com/channels/1521205109206290464/1521944863346790452."
+                },
+                "8" : {
+                    "title" : "8. Can I invite my friends?",
+                    "desc" : "Of course! You're welcome to invite your friends to join the Calderian Army and train together."
+                },
+                "9" : {
+                    "title" : "9. When will the game be finished?",
+                    "desc" : "The Calderian Army project is currently in development. We don't have an official release date yet, but our Calderian Department of Development team are working hard to finish it as soon as possible. Thank you for your patience and support!"
+                },
+                "10" : {
+                    "title" : "10. Where can I learn about the lore of Calderia and it's governmental structure?",
+                    "desc" : "You can read through the information in this channel: https://discord.com/channels/1521205109206290464/1521533145613078588 and discuss the lore with the community in this channel: https://discord.com/channels/1521205109206290464/1521533094107025419."
+                }
+            }
+        },
+        "spa" : {
+            "title" : "❓ Preguntas frecuentes",
+            "embeds" : {
+                "1" : {
+                    "title" : "1. ¿Qué es el Ejército Calderiano?",
+                    "desc" : "El Calderian Army es un juego de rol de estilo militar en el que los jugadores pueden entrenar, obtener ascensos y experimentar operaciones militares realistas a través de eventos LARP y desplegables."
+                },
+                "2" : {
+                    "title" : "2. ¿El juego es gratuito?",
+                    "desc" : "¡Sí! Unirse al Ejército Calderiano y jugar en Roblox es totalmente gratuito."
+                },
+                "3" : {
+                    "title" : "3. ¿Cómo me uno al Ejército Calderiano?",
+                    "desc" : "Únete al grupo aquí: https://www.roblox.com/communities/798272876/CA-Calderian-Army, y asiste a un entrenamiento estándar del ejército dentro del juego para unirte a una división."
+                },
+                "4" : {
+                    "title" : "4. ¿Cómo funcionan las promociones?",
+                    "desc" : "Los ascensos se obtienen mediante la actividad, la asistencia a capacitaciones, la disciplina y el cumplimiento de órdenes."
+                },
+                "5" : {
+                    "title" : "5. ¿Cómo puedo convertirme en desarrollador, miembro del staff o moderador?",
+                    "desc" : "Postúlate a través de la solicitud que encontrarás en este canal: https://discord.com/channels/1521205109206290464/1521954886147641377."
+                },
+                "6" : {
+                    "title" : "6. ¿Qué debo hacer si encuentro un error?",
+                    "desc" : "Reporta cualquier error en este canal de Discord: https://discord.com/channels/1521205109206290464/1521944863346790452."
+                },
+                "7" : {
+                    "title" : "7. ¿Qué sucede si alguien incumple las normas?",
+                    "desc" : "Denúncialos en este canal de Discord: https://discord.com/channels/1521205109206290464/1521944863346790452."
+                },
+                "8" : {
+                    "title" : "8. ¿Puedo invitar a mis amigos?",
+                    "desc" : "¡Por supuesto! Puedes invitar a tus amigos a unirse al Ejército Calderiano y entrenar juntos."
+                },
+                "9" : {
+                    "title" : "9. ¿Cuándo estará terminado el juego?",
+                    "desc" : "El proyecto del Ejército Calderiano se encuentra actualmente en desarrollo. Aún no tenemos una fecha de lanzamiento oficial, pero nuestro equipo del Departamento de Desarrollo Calderiano está trabajando arduamente para finalizarlo lo antes posible. ¡Gracias por su paciencia y apoyo!"
+                },
+                "10" : {
+                    "title" : "10. ¿Dónde puedo aprender sobre la historia y la mitología de Calderia y su estructura gubernamental?",
+                    "desc" : "Puedes leer la información de este canal: https://discord.com/channels/1521205109206290464/1521533145613078588 y comentar la historia y el trasfondo con la comunidad en este canal: https://discord.com/channels/1521205109206290464/1521533094107025419."
+                }
+            }
+        }
+    },
+    "general-information" : {
+        "eng" : {
+            "title" : "📌 General Information",
+            "embeds" : {
+                "1" : {
+                    "title" : "🎖️ What We Offer",
+                    "desc" : "- Realistic military roleplay\n- Army Standard Training and rank progression\n- Military drills and exercises\n- Active LARP-style events\n- Dedicated staff and instructors\n- A friendly and active community"
+                },
+                "2" : {
+                    "title" : "📢 Important Information",
+                    "desc" : "- Follow all server and in-game rules\n- Respect all players, staff, and military personnel\n- Attend trainings to earn promotions\n- Announcements and updates will be posted in the appropriate channels\n- Report bugs or rule breakers to staff with evidence whenever possible\n- Make suggestions to help grow the game"
+                },
+                "3" : {
+                    "title" : "🚧 Development Status",
+                    "desc" : "The Calderian Army is currently in development. New features, improvements, and events are added regularly as we continue building the experience."
+                },
+                "4" : {
+                    "title" : "🤝 Community",
+                    "desc" : "We encourage teamwork, respect, and professionalism. Whether you're a new recruit or an experienced soldier, everyone has the opportunity to learn, improve, and rise through the ranks."
+                }
+            }
+        },
+        "spa" : {
+            "title" : "📌 Información general",
+            "embeds" : {
+                "1" : {
+                    "title" : "🎖️ Lo que ofrecemos",
+                    "desc" : "- Juego de rol militar realista\n- Entrenamiento estándar y progresión de rango en el Ejército\n- Maniobras y ejercicios militares\n- Eventos activos al estilo LARP\n- Personal e instructores dedicados\n- Una comunidad amable y activa"
+                },
+                "2" : {
+                    "title" : "📢 Información importante",
+                    "desc" : "- Sigue todas las normas del servidor y del juego\n- Respeta a todos los jugadores, al personal y al personal militar\n- Asiste a capacitaciones para obtener ascensos\n- Los anuncios y las actualizaciones se publicarán en los canales correspondientes\n- Reporta errores o infracciones de las normas al equipo de administración, aportando pruebas siempre que sea posible.\n- Haz sugerencias para ayudar a hacer crecer el juego."
+                },
+                "3" : {
+                    "title" : "🚧 Estado del desarrollo",
+                    "desc" : "The Calderian Army se encuentra actualmente en desarrollo. Se añaden regularmente nuevas características, mejoras y eventos a medida que continuamos construyendo la experiencia."
+                },
+                "4" : {
+                    "title" : "🤝 Comunidad",
+                    "desc" : "Fomentamos el trabajo en equipo, el respeto y el profesionalismo. Ya seas un recluta nuevo o un soldado experimentado, todos tienen la oportunidad de aprender, mejorar y ascender de rango."
+                }
+            }
+        }
+    },
+    "chief-of-staff-information" : {
+        "eng" : {
+            "title" : "Chief of Staff Information",
+            "embeds" : {
+                "1" : {
+                    "title" : "Governmental Ranks",
+                    "desc" : "President (Commander-in-Chief): <@1434931977571668113>\nSecretary Of Defence: N/A (Claimed)"
+                },
+                "2" : {
+                    "title" : "Chief of Staff Ranks",
+                    "desc" : "Chief of the Defence Staff: <@1281318509858521094>\nDeputy Chief of the Defence Staff: <@1462918523616493834>\nSenior Enlisted Advisor to the Chief of Staff Board: N/A\n\nChief of the Army Staff: N/A\nDeputy Chief of the Army Staff (EU): N/A\nDeputy Chief of the Army Staff (EST): N/A\nDeputy Chief of the Army Staff (AEST): N/A\nArmy Sergeant Major: N/A"
+                },
+                "3" : {
+                    "title" : "Developers",
+                    "desc" : "Chief Developer: <@1462918523616493834>\nDeveloper: <@1281318509858521094>\nDeveloper: <@1009571473574334614>"
+                }
+            }
+        },
+        "spa" : {
+            "title" : "Información del Jefe de Gabinete",
+            "embeds" : {
+                "1" : {
+                    "title" : "Rangos gubernamentales",
+                    "desc" : "Presidente (comandante en jefe): <@1434931977571668113>\nSecretario de Defensa: N/A (Reclamado)"
+                },
+                "2" : {
+                    "title" : "Rangos de Jefe de Estado Mayor",
+                    "desc" : "Jefe del Estado Mayor de Defensa: <@1281318509858521094>\nJefe Adjunto del Estado Mayor de Defensa: <@1462918523616493834>\nJunta del Asesor Superior de Suboficiales del Jefe de Estado Mayor: N/A\n\nJefe del Estado Mayor del Ejército: N/A\nJefe Adjunto del Estado Mayor del Ejército (EU): N/A\nJefe Adjunto del Estado Mayor del Ejército (EST): N/A\nJefe Adjunto del Estado Mayor del Ejército (AEST): N/A\nSargento mayor del Ejército: N/A"
+                },
+                "3" : {
+                    "title" : "Desarrolladores",
+                    "desc" : "Desarrollador principal: <@1462918523616493834>\nDesarrollador: <@1281318509858521094>\nDesarrollador: <@1009571473574334614>"
+                }
+            }
+        }
+    },
+    "command-information" : {
+        "eng" : {
+            "title" : "Command Information",
+            "embeds" : {
+                "1" : {
+                    "title" : "What is a Command?",
+                    "desc" : "An Army Command is a organisational structure that categorises units of soldiers based upon their specialities."
+                },
+                "2" : {
+                    "title" : "[IFC] Infantry Force Command",
+                    "desc" : "The IFC is the largest command of the CA, it encompases all of the army's primary ground fighting personnel.\n\nRoblox Group: N/A\nDiscord: https://discord.gg/ta87JH8EQ9"
+                },
+                "3" : {
+                    "title" : "[ATC] Army Training Command",
+                    "desc" : "The ATC is responsible for training new recruits and existing personnel of the army to become the strongest they can.\n\nRoblox Group: N/A\nDiscord: "
+                },
+                "4" : {
+                    "title" : "[SOC] Special Operations Command",
+                    "desc" : "The SOC holds the most elite units of the CA, able to deploy anywhere, anytime.\n\nRoblox Group: N/A\nDiscord: "
+                },
+                "5" : {
+                    "title" : "[MPC] Military Police Command",
+                    "desc" : "The MPC guard, protect and ensure the complicance of rules at all military establishments.\n\nRoblox Group: N/A\nDiscord: "
+                },
+                "6" : {
+                    "title" : "[AAC] Army Aviation Command",
+                    "desc" : "The AAC assist ground combat with air to ground weaponry and mobilise troops to ensure precision of attacks.\n\nRoblox Group: N/A\nDiscord: "
+                },
+                "7" : {
+                    "title" : "[MIC] Military Intelligence Command",
+                    "desc" : "The MIC handle and collect military data from survalence and undercover missions to help coordinate units & win battles.\n\nRoblox Group: N/A\nDiscord: "
+                },
+                "8" : {
+                    "title" : "[MSC] Medical Support Command",
+                    "desc" : "The MSC support the ground combat by providing crutial medical attention to troops at need.\n\nRoblox Group: N/A\nDiscord: "
+                },
+                "9" : {
+                    "title" : "[QMC] Quartermasters Command",
+                    "desc" : "The QMC handles the logistics, awards and uniform creation of the Division that they are assigned to.\n\nRoblox Group: N/A\nDiscord: "
+                }
+            }
+        },
+        "spa" : {
+            "title" : "",
+            "embeds" : {
+                "1" : {
+                    "title" : "",
+                    "desc" : ""
+                },
+                "2" : {
+                    "title" : "",
+                    "desc" : ""
+                },
+                "3" : {
+                    "title" : "",
+                    "desc" : ""
+                },
+                "4" : {
+                    "title" : "",
+                    "desc" : ""
+                },
+                "5" : {
+                    "title" : "",
+                    "desc" : ""
+                },
+                "6" : {
+                    "title" : "",
+                    "desc" : ""
+                },
+                "7" : {
+                    "title" : "",
+                    "desc" : ""
+                },
+                "8" : {
+                    "title" : "",
+                    "desc" : ""
+                }
+            }
+        }
+    },
+    "corps-information" : {
+        "eng" : {
+            "title" : "Corps Information",
+            "embeds" : {
+                "1" : {
+                    "title" : "What is a Corps?",
+                    "desc" : "A Corps is an organisational structure of the CA that groups different types of soldiers into an active deployable force"
+                },
+                "2" : {
+                    "title" : "[IC] I Corps",
+                    "desc" : "The IC is the EU branch of the active Calderian Army forces."
+                },
+                "3" : {
+                    "title" : "[IIC] II Corps",
+                    "desc" : "The IC is the EST branch of the active Calderian Army forces."
+                },
+                "4" : {
+                    "title" : "[IIIC] III Corps",
+                    "desc" : "The IC is the AEST branch of the active Calderian Army forces."
+                }
+            }
+        },
+        "spa" : {
+            "title" : "",
+            "embeds" : {
+                "1" : {
+                    "title" : "",
+                    "desc" : ""
+                },
+                "2" : {
+                    "title" : "",
+                    "desc" : ""
+                },
+                "3" : {
+                    "title" : "",
+                    "desc" : ""
+                }
+            }
+        }
+    },
+    "rank-information" : {
+        "eng" : {
+            "title" : "Rank Information",
+            "embeds" : {
+                "1" : {
+                    "title" : "Officer Ranks",
+                    "desc" : "[OF-9] General\n[OF-8] Lieutenant General\n[OF-7] Major General\n[OF-6] Brigadier General\n[OF-5] Colonel\n[OF-4] Lieutenant Colonel\n[OF-3] Major\n[OF-2] Captain\n[OF-1B] 1st Lieutenant\n[OF-1A] 2nd Lieutenant\n[OF-0] Officer Cadet"
+                },
+                "2" : {
+                    "title" : "Enlisted Ranks",
+                    "desc" : "[OR-9B] Command Sergeant Major\n[OR-9A] Chief Warrant Officer\n[OR-8] Warrant Officer\n[OR-7] First Sergeant\n[OR-6] Staff Sergeant\n[OR-5] Sergeant\n[OR-4] Corporal\n[OR-3] Private First Class\n[OR-2] Private Second Class\n[OR-1] Private"
+                },
+                "3" : {
+                    "title" : "Army Recruitment",
+                    "desc" : "[OR-0] Recruit\n\nCivilian"
+                }
+            }
+        },
+        "spa" : {
+            "title" : "Información sobre el rango",
+            "embeds" : {
+                "1" : {
+                    "title" : "Rangos de oficiales",
+                    "desc" : "[OF-9] General\n[OF-8] Teniente General\n[OF-7] Mayor General\n[OF-6] General de brigada\n[OF-5] Coronel\n[OF-4] Teniente Coronel\n[OF-3] Mayor\n[OF-2] Capitán\n[OF-1B] 1st Teniente\n[OF-1A] 2nd Teniente\n[OF-0] Cadete"
+                },
+                "2" : {
+                    "title" : "Rangos de tropa",
+                    "desc" : "[OR-9B] Sargento Mayor de Comando\n[OR-9A] Suboficial Mayor\n[OR-8] Suboficial técnico\n[OR-7] Sargento primero\n[OR-6] Sargento de Estado Mayor\n[OR-5] Sargento\n[OR-4] Corporal\n[OR-3] Soldado de primera\n[OR-2] Soldado de segunda clase\n[OR-1] Privado"
+                },
+                "3" : {
+                    "title" : "Reclutamiento del Ejército",
+                    "desc" : "[OR-0] Recluta\n\nCivil"
+                }
+            }
+        }
+    }
+}
