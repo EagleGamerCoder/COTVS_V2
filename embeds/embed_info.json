@@ -128,6 +128,10 @@
                 "4" : {
                     "title" : "🤝 Community",
                     "desc" : "We encourage teamwork, respect, and professionalism. Whether you're a new recruit or an experienced soldier, everyone has the opportunity to learn, improve, and rise through the ranks."
+                },
+                "5" : {
+                    "title" : "🔗 Links",
+                    "desc" : "Main Roblox Group: https://www.roblox.com/communities/798272876/CA-Calderian-Army#!/about \nCalderian Army Website: https://calderian-army.nemea.host/"
                 }
             }
         },
@@ -149,6 +153,10 @@
                 "4" : {
                     "title" : "🤝 Comunidad",
                     "desc" : "Fomentamos el trabajo en equipo, el respeto y el profesionalismo. Ya seas un recluta nuevo o un soldado experimentado, todos tienen la oportunidad de aprender, mejorar y ascender de rango."
+                },
+                "5" : {
+                    "title" : "🔗 Campo de golf",
+                    "desc" : "Grupo principal de Roblox: https://www.roblox.com/communities/798272876/CA-Calderian-Army#!/about \nSitio web del Ejército Calderiano: https://calderian-army.nemea.host/"
                 }
             }
         }
@@ -203,7 +211,7 @@
                 },
                 "3" : {
                     "title" : "[ATC] Army Training Command",
-                    "desc" : "The ATC is responsible for training new recruits and existing personnel of the army to become the strongest they can.\n\nRoblox Group: N/A\nDiscord: N/A \n\nCommander: N/A\nExecutive Commander: N/A\nCommand Sergeant Major: N/A"
+                    "desc" : "The ATC is responsible for training new recruits and existing personnel of the army to become the strongest they can.\n\nRoblox Group: N/A\nDiscord: https://discord.gg/22ArtTnqGm \n\nCommander: N/A\nExecutive Commander: N/A\nCommand Sergeant Major: N/A"
                 },
                 "4" : {
                     "title" : "[SOC] Special Operations Command",

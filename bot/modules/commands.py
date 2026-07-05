@@ -26,7 +26,7 @@ async def setup(bot, context):
 
 
     @bot.tree.command(name="update-embed", description="Re-sends the targeted embed.")
-    @app_commands.checks.has_role("[CDEV] Chief Developer")
+    @app_commands.checks.has_any_role("[CDEV] Chief Developer","Server Admin")
     async def update_embed(interaction : discord.Interaction, channel : discord.TextChannel):
         await interaction.response.defer(ephemeral=True)
 
@@ -42,7 +42,7 @@ async def setup(bot, context):
 
     @bot.tree.command(name="update-all-embeds", description="Updates all the embeds.")
     @app_commands.checks.has_role("[CDEV] Chief Developer")
-    async def update_embed(interaction : discord.Interaction):
+    async def update_alll_embeds(interaction : discord.Interaction):
         await interaction.response.defer(ephemeral=True)
 
         await interaction.followup.send("**Updating all embeds...**",ephemeral=True)
@@ -52,7 +52,11 @@ async def setup(bot, context):
         guild = interaction.guild
         for channel in guild.channels:
             if isinstance(channel, discord.TextChannel):
-                await update_embed(interaction=interaction, channel=channel)
+                async for i in channel.history(limit=100):
+                    if i.author.id == bot.user.id:
+                        await i.delete()
+                
+                await create_embed(context, channel)
         
         endtime = time.perf_counter()
 
@@ -138,36 +142,10 @@ async def setup(bot, context):
             embed.set_thumbnail(url=guild.icon.url)
 
         await interaction.followup.send(embed=embed, ephemeral=True)
-    
     '''
     #promote (Lt. Gen+)   ---- also need promotion logs and they cant promote anyone to CSB! for example
-    @bot.tree.command(name="bot-diagnostics", description="Provides the stats of the bot.")
+    @bot.tree.command(name="promote", description="Promotes a user.")
     @app_commands.checks.has_role("[CDEV] Chief Developer")
-    async def bot_diagnostics(interaction : discord.Interaction):
-        await interaction.response.defer(ephemeral=True)
-
-        guild = interaction.guild
-        me = guild.me
-
-        permissions = me.guild_permissions
-
-        embed = discord.Embed(
-            title=f"📊 Bot diagnostics • {guild.name}",
-            colour=discord.Color.gold()
-        )
-
-        embed.add_field(name="Latency", value=round(bot.latency * 1000), inline=True)
-        embed.add_field(name="Highest Role", value=me.top_role.mention, inline=True)
-        embed.add_field(name="Role Position", value=me.top_role.position, inline=True)
-        embed.add_field(name="Colour", value=me.colour, inline=True)
-
-        embed.add_field(name="Manage Roles", value='✅' if permissions.manage_roles else '❌', inline=True)
-        embed.add_field(name="Manage Nicknames", value='✅' if permissions.manage_nicknames else '❌', inline=True)
-        embed.add_field(name="Administrator", value='✅' if permissions.administrator else '❌', inline=True)
-        embed.add_field(name="View Audit Log", value='✅' if permissions.view_audit_log else '❌', inline=True)
-
-        if guild.icon:
-            embed.set_thumbnail(url=guild.icon.url)
-
-        await interaction.followup.send(embed=embed, ephemeral=True)
+    async def promote(interaction : discord.Interaction, user : discord.member, new_role : str):
+        pass
     '''
